@@ -1,4 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "blewett"
+  "format": "blewett",
+  "resources": {
+    "blewett/SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_date_and_abiotic.csv": "SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_date_and_abiotic.csv",
+    "blewett/SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_numeric_abundance.csv": "SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_numeric_abundance.csv"
+  }
 }
