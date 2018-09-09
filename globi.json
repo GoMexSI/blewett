@@ -1,8 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "blewett",
-  "citation": "Blewett, D. A., Hensley, R. A., & Stevens, P. W. (2006). Feeding Habits of Common Snook, Centropomus undecimalis, in Charlotte Harbor, Florida. Gulf and Caribbean Research, 18. doi:10.18785/gcr.1801.01
-",
+  "citation": "Blewett, D. A., Hensley, R. A., & Stevens, P. W. (2006). Feeding Habits of Common Snook, Centropomus undecimalis, in Charlotte Harbor, Florida. Gulf and Caribbean Research, 18. doi:10.18785/gcr.1801.01",
   "doi": "10.18785/gcr.1801.01",
   "resources": {
     "blewett/SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_date_and_abiotic.csv": "SnookDietData2000_02_Charlotte_Harbor_FL_Blewett_date_and_abiotic.csv",
